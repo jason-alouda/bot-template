@@ -1,5 +1,7 @@
 # WeChat Work and Slack bot template
 
+<a href="/images/resume2020-final.pdf" download>
+
 This is a template for a WeChat and Slack bot that can be used to send daily, weekly,
 or spontaneous reminders for meetings. It uses webhook principles to send notifications
 to the apps.
